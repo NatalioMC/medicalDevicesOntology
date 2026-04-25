@@ -1,0 +1,1986 @@
+[ {
+  "@id" : "_:genid1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid10",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid11",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid12",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid13",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid14",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid15",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid16",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid17",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid18",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid19",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid20",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid21",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid22",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid23",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid24",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid25",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid26",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid27",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid28",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid29",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid3",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid30",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid31",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid32",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid33",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid34",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid35",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid36",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid37",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid38",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid39",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#allValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType"
+  } ]
+}, {
+  "@id" : "_:genid4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid40",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid41",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid42",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Imp" ],
+  "http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "@value" : "true"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : ""
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@value" : "DeviceManufacturerRule"
+  } ],
+  "http://www.w3.org/2003/11/swrl#body" : [ {
+    "@list" : [ {
+      "@id" : "_:genid46"
+    }, {
+      "@id" : "_:genid44"
+    } ]
+  } ],
+  "http://www.w3.org/2003/11/swrl#head" : [ {
+    "@list" : [ {
+      "@id" : "_:genid48"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid44",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#IndividualPropertyAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#d"
+  } ],
+  "http://www.w3.org/2003/11/swrl#argument2" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#m"
+  } ],
+  "http://www.w3.org/2003/11/swrl#propertyPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ]
+}, {
+  "@id" : "_:genid46",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#ClassAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#d"
+  } ],
+  "http://www.w3.org/2003/11/swrl#classPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid48",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#ClassAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#m"
+  } ],
+  "http://www.w3.org/2003/11/swrl#classPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid49",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Imp" ],
+  "http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "@value" : "true"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : ""
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@value" : "IncidentDeviceRule"
+  } ],
+  "http://www.w3.org/2003/11/swrl#body" : [ {
+    "@list" : [ {
+      "@id" : "_:genid53"
+    }, {
+      "@id" : "_:genid51"
+    } ]
+  } ],
+  "http://www.w3.org/2003/11/swrl#head" : [ {
+    "@list" : [ {
+      "@id" : "_:genid55"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid5",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid51",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#IndividualPropertyAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#i"
+  } ],
+  "http://www.w3.org/2003/11/swrl#argument2" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#d"
+  } ],
+  "http://www.w3.org/2003/11/swrl#propertyPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ]
+}, {
+  "@id" : "_:genid53",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#ClassAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#i"
+  } ],
+  "http://www.w3.org/2003/11/swrl#classPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  } ]
+}, {
+  "@id" : "_:genid55",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#ClassAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#d"
+  } ],
+  "http://www.w3.org/2003/11/swrl#classPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid56",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Imp" ],
+  "http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "@value" : "true"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : ""
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@value" : "HighSeverityIncidentRule"
+  } ],
+  "http://www.w3.org/2003/11/swrl#body" : [ {
+    "@list" : [ {
+      "@id" : "_:genid64"
+    }, {
+      "@id" : "_:genid62"
+    }, {
+      "@id" : "_:genid58"
+    } ]
+  } ],
+  "http://www.w3.org/2003/11/swrl#head" : [ {
+    "@list" : [ {
+      "@id" : "_:genid66"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid58",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#BuiltinAtom" ],
+  "http://www.w3.org/2003/11/swrl#arguments" : [ {
+    "@list" : [ {
+      "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#s"
+    }, {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "7"
+    } ]
+  } ],
+  "http://www.w3.org/2003/11/swrl#builtin" : [ {
+    "@id" : "http://www.w3.org/2003/11/swrlb#greaterThan"
+  } ]
+}, {
+  "@id" : "_:genid6",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid62",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#i"
+  } ],
+  "http://www.w3.org/2003/11/swrl#argument2" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#s"
+  } ],
+  "http://www.w3.org/2003/11/swrl#propertyPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#incidentSeverity"
+  } ]
+}, {
+  "@id" : "_:genid64",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#ClassAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#i"
+  } ],
+  "http://www.w3.org/2003/11/swrl#classPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  } ]
+}, {
+  "@id" : "_:genid66",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#ClassAtom" ],
+  "http://www.w3.org/2003/11/swrl#argument1" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#i"
+  } ],
+  "http://www.w3.org/2003/11/swrl#classPredicate" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#SeriousIncident"
+  } ]
+}, {
+  "@id" : "_:genid7",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "_:genid8",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  } ]
+}, {
+  "@id" : "_:genid9",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  } ]
+}, {
+  "@id" : "http://dbpedia.org/resource/Medical_device",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#authorizationNumber" : [ {
+    "@value" : "DE/2017/001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#contactEmail" : [ {
+    "@value" : "regulatory@medtech.example"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#country" : [ {
+    "@value" : "Germany"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eudamedSrn" : [ {
+    "@value" : "SRN-DE-MED-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#manufacturerId" : [ {
+    "@value" : "MAN-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#name" : [ {
+    "@value" : "MedTech Corp"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2002/07/owl#sameAs" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer_1"
+  } ]
+}, {
+  "@id" : "http://dbpedia.org/resource/Product_recall",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#actionDate" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "2024-02-01"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#description" : [ {
+    "@value" : "Safety communication and device recall."
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#fscaId" : [ {
+    "@value" : "FSCA-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Recall"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#status" : [ {
+    "@value" : "Completed"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid38"
+  } ],
+  "http://www.w3.org/2002/07/owl#sameAs" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction_1"
+  } ]
+}, {
+  "@id" : "http://dbpedia.org/resource/Risk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasAffectedDeviceType" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#AffectedDeviceType_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#imdrfCode" : [ {
+    "@value" : "A0101"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#probability" : [ {
+    "@value" : "Medium"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#riskId" : [ {
+    "@value" : "RSK-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#riskName" : [ {
+    "@value" : "Battery failure"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#severity" : [ {
+    "@value" : "High"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2002/07/owl#sameAs" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk_1"
+  } ]
+}, {
+  "@id" : "http://schema.org/Device",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Ontology for representing medical devices, manufacturers, risks, incidents and corrective actions."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Medical Devices Ontology"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ActiveDevice",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Device requiring energy to operate."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Active device"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid31"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#AffectedDeviceType",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Type of device affected by a risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Affected device type"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#AffectedDeviceType_1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#AffectedDeviceType"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Example instance of an affected device type."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Affected device type 1"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ClassC",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "IVDR risk class C."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Class C"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ClassD",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "IVDR risk class D."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Class D"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ClassIII",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class", "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "MDR risk class III."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Class III"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ClassIIa",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "MDR risk class IIa."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Class IIa"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ClassIIb",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "MDR risk class IIb."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Class IIb"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Field safety corrective action linked to an incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Corrective action"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "_:genid32"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction_1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#actionDate" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "2024-02-01"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#description" : [ {
+    "@value" : "Safety communication and device recall."
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#fscaId" : [ {
+    "@value" : "FSCA-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Recall"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#status" : [ {
+    "@value" : "Completed"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid39"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Example instance of a corrective action linked to an incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Corrective action 1"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Medical device included in the catalogue."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Device"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "_:genid33"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device_1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#deviceId" : [ {
+    "@value" : "DEV-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#deviceName" : [ {
+    "@value" : "Pacemaker X"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer" : [ {
+    "@id" : "http://dbpedia.org/resource/Medical_device"
+  }, {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasRisk" : [ {
+    "@id" : "http://dbpedia.org/resource/Risk"
+  }, {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasRiskClass" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ClassIII"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#intendedPurpose" : [ {
+    "@value" : "Cardiac rhythm management"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#isActive" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "@value" : "true"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#isIvd" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "@value" : "false"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#isReusable" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#boolean",
+    "@value" : "false"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#regulatoryFramework" : [ {
+    "@value" : "MDR"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#udiDi" : [ {
+    "@value" : "UDI-DEV-001"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid40"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Example instance of a medical device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Device 1"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#DiagnosticRisk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Risk related to a diagnostic error."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Diagnostic risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Field Safety Corrective Action type."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "FSCA"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#ImplantableDevice",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Device intended to be implanted in the human body."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Implantable device"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid34"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#InVitroDiagnosticDevice",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Device used for in vitro diagnostic purposes."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "In vitro diagnostic device"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid35"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Reported incident involving a medical device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Incident"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "_:genid36"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident_1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#countryReported" : [ {
+    "@value" : "Germany"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#description" : [ {
+    "@value" : "Battery failure caused loss of pacing therapy."
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eudamedIncidentRef" : [ {
+    "@value" : "EU-INC-2024-000001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eventDate" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "2024-01-09"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasCorrectiveAction" : [ {
+    "@id" : "http://dbpedia.org/resource/Product_recall"
+  }, {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#incidentId" : [ {
+    "@value" : "INC-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#incidentSeverity" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+    "@value" : "8"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#outcome" : [ {
+    "@value" : "Patient injury"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#patientAge" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+    "@value" : "67"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#patientSex" : [ {
+    "@value" : "Male"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#relatedToRisk" : [ {
+    "@id" : "http://dbpedia.org/resource/Risk"
+  }, {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#reportDate" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#date",
+    "@value" : "2024-01-10"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#reportingEntity" : [ {
+    "@value" : "Hospital"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#SeriousIncident"
+  }, {
+    "@id" : "_:genid41"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Example instance of an incident related to a medical device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Incident 1"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#InjuryRisk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Risk related to patient injury."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Injury risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#MalfunctionRisk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Risk related to a device malfunction."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Malfunction risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Organization responsible for manufacturing a medical device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Manufacturer"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer_1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#authorizationNumber" : [ {
+    "@value" : "DE/2017/001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#contactEmail" : [ {
+    "@value" : "regulatory@medtech.example"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#country" : [ {
+    "@value" : "Germany"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eudamedSrn" : [ {
+    "@value" : "SRN-DE-MED-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#manufacturerId" : [ {
+    "@value" : "MAN-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#name" : [ {
+    "@value" : "MedTech Corp"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Example instance of a medical device manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Manufacturer 1"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Recall",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class", "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Corrective action based on product recall."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Recall"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Identified risk related to a medical device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Risk"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Regulatory risk class assigned to a device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Risk class"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk_1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasAffectedDeviceType" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#AffectedDeviceType_1"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#imdrfCode" : [ {
+    "@value" : "A0101"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#probability" : [ {
+    "@value" : "Medium"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#riskId" : [ {
+    "@value" : "RSK-001"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#riskName" : [ {
+    "@value" : "Battery failure"
+  } ],
+  "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#severity" : [ {
+    "@value" : "High"
+  } ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Example instance of a risk related to battery failure."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Risk 1"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#SafetyAlert",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Corrective action based on a safety alert."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Safety alert"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#SeriousIncident",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Incident with serious consequences for patient safety."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "Serious incident"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid37"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#actionDate",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Date of the corrective action."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid10"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "action date"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#date"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#authorizationNumber",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Authorization number of the manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "authorization number"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#contactEmail",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Contact email of the manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "contact email"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#country",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Country of the manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "country"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#countryReported",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Country where the incident was reported."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid11"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "country reported"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#d",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Variable" ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#description",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Textual description of a resource."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "description"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#deviceId",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Identifier of the device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid12"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "device ID"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#deviceName",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Name of the device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid13"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "device name"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eudamedIncidentRef",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Reference of the incident in EUDAMED."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid14"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "EUDAMED incident reference"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eudamedSrn",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Single Registration Number in EUDAMED."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "EUDAMED SRN"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#eventDate",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Date when the incident occurred."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid15"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "event date"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#date"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#fscaId",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Identifier of the corrective action."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid16"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "FSCA ID"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasActionType",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates a corrective action to its FSCA type."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid1"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "has action type"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#FSCA"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasAffectedDeviceType",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates a risk to the affected device type."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "has affected device type"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#AffectedDeviceType"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasCorrectiveAction",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates an incident to a corrective action."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid2"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "has corrective action"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid3"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasManufacturer",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates a device to its manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid4"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "has manufacturer"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasRisk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates a device to an identified risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid5"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "has risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#hasRiskClass",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates a device to its regulatory risk class."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid6"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "has risk class"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#RiskClass"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#i",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Variable" ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#imdrfCode",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "IMDRF risk code."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "IMDRF code"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#incidentId",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Identifier of the incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid17"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "incident ID"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#incidentSeverity",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Numerical severity value of the incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid18"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "incident severity"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#int"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#intendedPurpose",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Intended purpose of the device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid19"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "intended purpose"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#involvesDevice",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates an incident to the involved device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid7"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "involves device"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid8"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#isActive",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Indicates whether the device is active."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid20"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "is active"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#boolean"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#isIvd",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Indicates whether the device is an in vitro diagnostic device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid21"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "is IVD"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#boolean"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#isReusable",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Indicates whether the device is reusable."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid22"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "is reusable"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#boolean"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#m",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Variable" ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#manufacturerId",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Identifier of the manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "manufacturer ID"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#name",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Name of the manufacturer."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Manufacturer"
+  }, {
+    "@id" : "http://xmlns.com/foaf/0.1/Organization"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "name"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#outcome",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Outcome of the incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid23"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "outcome"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#patientAge",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Age of the patient involved in the incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid24"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "patient age"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#int"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#patientSex",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Sex of the patient involved in the incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid25"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "patient sex"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#probability",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Probability of the risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "probability"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#regulatoryFramework",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Regulatory framework applicable to the device."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid26"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "regulatory framework"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#relatedToRisk",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Relates an incident to the associated risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid9"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "related to risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#reportDate",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Date when the incident was reported."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid27"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "report date"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#date"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#reportingEntity",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Entity reporting the incident."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Incident"
+  }, {
+    "@id" : "_:genid28"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "reporting entity"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#riskId",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Identifier of the risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "risk ID"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#riskName",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Name of the risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "risk name"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#s",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Variable" ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#severity",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Severity of the risk."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Risk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "severity"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#status",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Status of the corrective action."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#CorrectiveAction"
+  }, {
+    "@id" : "_:genid29"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "status"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#udiDi",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Unique device identifier."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
+    "@id" : "http://www.uoc.edu/knowledgeManagement/medicalDevicesOntology#Device"
+  }, {
+    "@id" : "_:genid30"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "UDI-DI"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#range" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/2001/XMLSchema#date",
+  "@type" : [ "http://www.w3.org/2000/01/rdf-schema#Datatype" ]
+}, {
+  "@id" : "http://www.w3.org/2003/11/swrlb#greaterThan",
+  "@type" : [ "http://www.w3.org/2003/11/swrl#Builtin" ]
+}, {
+  "@id" : "http://xmlns.com/foaf/0.1/Organization",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+} ]
